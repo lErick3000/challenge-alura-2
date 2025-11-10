@@ -116,8 +116,8 @@ Se sugiere que el **Sr. Juan venda la Tienda 4** y conserve las tiendas con mayo
 
 ## 👨‍💻 Autor
 
-**Erick Honorio**  
-🌐 [https://github.com/lErick3000](https://github.com/lErick3000)
+| [<img src="https://github.com/user-attachments/assets/170d1b9d-3728-4fdd-a7b5-e5dda810171b" width=115><br><sub>Erick Honorio</sub>](https://github.com/lErick3000) |  
+| :---: | 
 
 Proyecto desarrollado como parte del **Challenge Data Science LATAM – Alura + Oracle Next Education (ONE)**.
 
